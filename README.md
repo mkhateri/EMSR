@@ -1,6 +1,4 @@
-# No-Clean-Reference Image Super-Resolution  
-
-### Application to Electron Microscopy (EMSR)
+# No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy 
 
 This repository provides the official implementation of **No-Clean-Reference Electron Microscopy Super-Resolution (EMSR)** — a deep learning framework for reconstructing high-resolution (HR) 3D electron microscopy images from noisy low-resolution (LR) acquisitions over large brain tissue volumes.
 
