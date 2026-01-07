@@ -10,7 +10,7 @@ EMSR enables practical, scalable EM super-resolution for real-world datasets whe
 ## Dataset Structure (Training)
 
 Training data should follow the structure below:
-
+```
 
 DATASET_ROOT/
 └── Train/
@@ -30,3 +30,4 @@ DATASET_ROOT/
 └── SampleB/
 ├── SampleB_000001.png
 └── ...
+'''
