@@ -47,8 +47,8 @@ DATA_ROOT/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/mkhateri/EMSR.git
-cd EMSR_2_git
+git EMSR.git
+cd EMSR
 ```
 
 ### 2. Create and activate the environment
