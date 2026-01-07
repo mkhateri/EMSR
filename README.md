@@ -122,7 +122,7 @@ conda env create -f environment.yaml
 ---
 
 ## 📚 Citation
-If this work helps your research, please cite our paper and leave a ⭐!
+If you find this work useful in your research, please consider citing our paper and starring ⭐ our repository.
 ```bibtex
 @article{khateri2024no,
   title={No-clean-reference image super-resolution: Application to electron microscopy},
