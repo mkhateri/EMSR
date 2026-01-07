@@ -1,5 +1,5 @@
 
-# 📌 EMSR: No-Clean-Reference Electron Microscopy Super-Resolution
+# EMSR: No-Clean-Reference Electron Microscopy Super-Resolution
 
 This repository contains the official implementation of **No-Clean-Reference Image Super-Resolution (EMSR)** — a deep-learning framework for reconstructing **high-resolution (HR) 3D electron microscopy** from noisy **low-resolution (LR)** acquisitions, without requiring clean ground truth.
 
@@ -7,17 +7,15 @@ EMSR is designed for **large-field-of-view EM imaging** and enables high-quality
 
 ---
 
-## ⭐ Features
-
-- ✔ Train without clean HR references  
-- ✔ Supports real, denoised, and synthetic HR references  
+## Features
+- ✔ Supports training with real and synthetic LR/HR pairs  
 - ✔ Transformer-based SR designed for EM textures  
 - ✔ Full 3D stack inference with sliding-window reconstruction  
 - ✔ Automatic configuration + checkpoint management  
 
 ---
 
-## 📁 Dataset Structure (Training)
+## Dataset Structure (Training)
 
 Your training data should follow:
 
@@ -66,7 +64,7 @@ export PYTHONPATH=$(pwd):$PYTHONPATH
 
 ---
 
-## 🎯 Training EMSR
+## Training EMSR
 
 All training settings are defined in:
 
@@ -93,7 +91,7 @@ python train.py
 
 ---
 
-## 🧠 Inference on 3D EM `.mat` Files
+## Inference on 3D EM `.mat` Files
 
 The model loads:
 
@@ -115,7 +113,7 @@ python inference.py     --logs_dir /path/to/logs     --mat_dir /path/to/mat_file
 
 ---
 
-## 📦 Environment
+## Environment
 
 ```
 conda env create -f environment.yaml
@@ -137,8 +135,7 @@ conda env create -f environment.yaml
 
 ---
 
-## 🙏 Acknowledgments
-
-We thank the neuroscience and EM imaging communities for their datasets and feedback that motivated the development of EMSR.
+## Acknowledgments
+We thank the CSC–IT Center for Science (Finland) and the Bioinformatics Center at the University of Eastern Finland for providing computational resources.
 
 ---
