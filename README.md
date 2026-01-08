@@ -149,13 +149,7 @@ python inference.py     --logs_dir /path/to/logs     --mat_dir /path/to/mat_file
 
 ---
 
-## Environment
 
-```
-conda env create -f environment.yaml
-```
-
----
 
 ## 📚 Citation
 If you find this work useful in your research, please consider citing our paper and starring ⭐ our repository.
