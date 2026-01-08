@@ -10,7 +10,7 @@ EMSR is designed for **large-field-of-view EM imaging** and enables high-quality
 
 # 📊 Super-Resolution Results
 
-Below we show qualitative examples of EMSR performance on real EM data.
+The following examples demonstrate the performance of EMSR on realistic electron microscopy data.
 
 ## 🔍 LR → HR Comparison (Swipe GIFs)
 
@@ -18,21 +18,21 @@ Below we show qualitative examples of EMSR performance on real EM data.
   <tr>
     <td align="center">
       <b>Example 01</b><br>
-      <img src="fig/LRHR_01.gif" width="420">
+      <img src="figs/LRHR_01.gif" width="420">
     </td>
     <td align="center">
       <b>Example 02</b><br>
-      <img src="fig/LRHR_02.gif" width="420">
+      <img src="figs/LRHR_02.gif" width="420">
     </td>
   </tr>
 </table>
 
 ---
 
-## 🖼️ Reconstructed Super-Resolution Output
+## 🖼️ Super-Resolved Output
 
 <p align="center">
-  <img src="fig/sr_01.png" width="90%">
+  <img src="figs/fig_sr_01.png" width="95%">
 </p>
 
 ---
@@ -40,10 +40,11 @@ Below we show qualitative examples of EMSR performance on real EM data.
 ## 🧠 EMSR Network Architecture
 
 <p align="center">
-  <img src="fig/network.png" width="80%">
+  <img src="figs/fig_network.png" width="80%">
 </p>
 
 ---
+
 
 ---
 
