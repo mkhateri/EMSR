@@ -12,8 +12,6 @@ EMSR is designed for **large-field-of-view EM imaging** and enables high-quality
 
 The following examples demonstrate the performance of EMSR on realistic electron microscopy data.
 
-## LR → HR Comparison (Swipe GIFs)
-
 <table>
   <tr>
     <td align="center">
@@ -28,12 +26,12 @@ The following examples demonstrate the performance of EMSR on realistic electron
 </table>
 
 ---
-
-## Super-Resolved Output
+EMSR super-resoluton even outperms real HR acquistion in terms of noise, artifact, as follows:
 
 <p align="center">
   <img src="figs/fig_sr_01.png" width="95%">
 </p>
+
 
 ---
 
