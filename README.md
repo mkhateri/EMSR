@@ -18,11 +18,11 @@ The following examples demonstrate the performance of EMSR on realistic electron
   <tr>
     <td align="center">
       <b>Example 01</b><br>
-      <img src="figs/LRHR_01.gif" width="420">
+      <img src="figs/LRHR_01.gif" width="380">
     </td>
     <td align="center">
       <b>Example 02</b><br>
-      <img src="figs/LRHR_02.gif" width="420">
+      <img src="figs/LRHR_02.gif" width="380">
     </td>
   </tr>
 </table>
