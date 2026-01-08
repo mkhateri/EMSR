@@ -83,7 +83,7 @@ DATA_ROOT/
 
 ### 1. Clone the repository
 ```
-git EMSR.git
+git clone https://github.com/mkhateri/EMSR.git
 cd EMSR
 ```
 
