@@ -8,11 +8,11 @@ EMSR is designed for **large-field-of-view EM imaging** and enables high-quality
 
 ---
 
-# 📊 Super-Resolution Results
+# Super-Resolution Results
 
 The following examples demonstrate the performance of EMSR on realistic electron microscopy data.
 
-## 🔍 LR → HR Comparison (Swipe GIFs)
+## LR → HR Comparison (Swipe GIFs)
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ The following examples demonstrate the performance of EMSR on realistic electron
 
 ---
 
-## 🖼️ Super-Resolved Output
+## Super-Resolved Output
 
 <p align="center">
   <img src="figs/fig_sr_01.png" width="95%">
@@ -37,7 +37,7 @@ The following examples demonstrate the performance of EMSR on realistic electron
 
 ---
 
-## 🧠 EMSR Network Architecture
+## EMSR Network Architecture
 
 <p align="center">
   <img src="figs/fig_network.png" width="80%">
@@ -84,7 +84,7 @@ DATA_ROOT/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 ```
