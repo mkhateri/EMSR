@@ -25,7 +25,7 @@ The examples below demonstrate the performance of EMSR on challenging real-world
 
 ---
 
-EMSR super-resolution often **outperforms real HR acquisitions** by providing reduced noise, fewer artifacts, and improved structural clarity, as illustrated below:
+EMSR super-resolution can **outperform real HR acquisitions** by providing reduced noise, fewer artifacts, and improved structural clarity, as illustrated below:
 
 <p align="center">
   <img src="figs/fig_sr_01.png" width="95%">
