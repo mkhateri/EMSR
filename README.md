@@ -13,11 +13,11 @@ The examples below demonstrate the performance of EMSR on challenging real-world
 <table>
   <tr>
     <td align="center">
-      <b>Example 01</b><br>
+      <b>LR-to-HR Example 01</b><br>
       <img src="figs/LRHR_01.gif" width="380">
     </td>
     <td align="center">
-      <b>Example 02</b><br>
+      <b>LR-to-HR Example 02</b><br>
       <img src="figs/LRHR_02.gif" width="380">
     </td>
   </tr>
