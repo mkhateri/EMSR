@@ -4,6 +4,9 @@ This repository contains the official implementation of **Electron Microscopy Im
 
 EMSR is designed for **large–field-of-view EM imaging**, enabling high-quality and scalable SR reconstruction in realistic EM acquisition scenarios.
 
+This work has been published in *IEEE Transactions on Computational Imaging*.  
+📄 **Paper link:** https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10592622
+
 ---
 
 # Super-Resolution Results from EMSR
