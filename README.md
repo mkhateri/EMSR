@@ -1,16 +1,14 @@
-
 # No-Clean-Reference Electron Microscopy Super-Resolution: Application to Electron Microscopy
 
-This repository contains the official implementation of **Electron Microscopy Image Super-Resolution (EMSR)** — a deep-learning framework for reconstructing high-resolution (HR) 3D electron microscopy from noisy low-resolution (LR) acquisitions, without requiring clean ground truth.
+This repository contains the official implementation of **Electron Microscopy Image Super-Resolution (EMSR)** — a deep-learning framework for reconstructing high-resolution (HR) 3D electron microscopy volumes from noisy low-resolution (LR) acquisitions, **without requiring any clean ground-truth data**.
 
-EMSR is designed for **large-field-of-view EM imaging** and enables high-quality, scalable SR in realistic EM acquisition scenarios.
-
+EMSR is designed for **large–field-of-view EM imaging**, enabling high-quality and scalable SR reconstruction in realistic EM acquisition scenarios.
 
 ---
 
-# Super-Resolution Results
+# Super-Resolution Results from EMSR
 
-The following examples demonstrate the performance of EMSR on realistic electron microscopy data.
+The examples below demonstrate the performance of EMSR on challenging real-world EM data.
 
 <table>
   <tr>
@@ -26,12 +24,12 @@ The following examples demonstrate the performance of EMSR on realistic electron
 </table>
 
 ---
-EMSR super-resoluton even outperms real HR acquistion in terms of noise, artifact, as follows:
+
+EMSR super-resolution often **outperforms real HR acquisitions** by providing reduced noise, fewer artifacts, and improved structural clarity, as illustrated below:
 
 <p align="center">
   <img src="figs/fig_sr_01.png" width="95%">
 </p>
-
 
 ---
 
@@ -41,7 +39,6 @@ EMSR super-resoluton even outperms real HR acquistion in terms of noise, artifac
   <img src="figs/fig_network.png" width="80%">
 </p>
 
----
 
 
 ---
