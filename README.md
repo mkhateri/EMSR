@@ -5,6 +5,46 @@ This repository contains the official implementation of **Electron Microscopy Im
 
 EMSR is designed for **large-field-of-view EM imaging** and enables high-quality, scalable SR in realistic EM acquisition scenarios.
 
+
+---
+
+# 📊 Super-Resolution Results
+
+Below we show qualitative examples of EMSR performance on real EM data.
+
+## 🔍 LR → HR Comparison (Swipe GIFs)
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Example 01</b><br>
+      <img src="fig/LRHR_01.gif" width="420">
+    </td>
+    <td align="center">
+      <b>Example 02</b><br>
+      <img src="fig/LRHR_02.gif" width="420">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🖼️ Reconstructed Super-Resolution Output
+
+<p align="center">
+  <img src="fig/sr_01.png" width="90%">
+</p>
+
+---
+
+## 🧠 EMSR Network Architecture
+
+<p align="center">
+  <img src="fig/network.png" width="80%">
+</p>
+
+---
+
 ---
 
 ## Features
