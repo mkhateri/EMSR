@@ -44,10 +44,10 @@ EMSR super-resolution can **outperform real HR acquisitions** by providing reduc
 ---
 
 ## Features
-- ✔ Supports training with real and synthetic LR/HR pairs  
-- ✔ Transformer-based SR designed for EM textures  
-- ✔ Full 3D stack inference with sliding-window reconstruction  
-- ✔ Automatic configuration + checkpoint management  
+✔ Supports training with either real or synthetic LR/HR pairs  
+✔ Transformer-based SR designed for EM textures  
+✔ Full 3D stack inference with sliding-window reconstruction  
+✔ Theoretical support for training with no-clean ground truth   
 
 ---
 
